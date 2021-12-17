@@ -1,0 +1,1 @@
+C:\GitProjects\OpenGL-SFML\lighting\x64\Debug\lighting.vcxproj.CopyComplete
